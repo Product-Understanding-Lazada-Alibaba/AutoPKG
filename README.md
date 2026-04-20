@@ -1,4 +1,4 @@
-# APKG - KGD (Knowledge Graph Dicision)、
+# APKG code and data repo
 
 ### This is the minimum reproducible version extracted from internal experimental code.
 

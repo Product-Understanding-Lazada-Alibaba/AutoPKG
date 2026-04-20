@@ -48,7 +48,11 @@ Contains all directed edges (relationships) between nodes in the knowledge graph
 
 ### 3. `lazada_autopkg_product_data_file_path.csv` — Product Data (Image File Paths)
 
-Contains structured product information for ~36,000 Lazada products. In this version, **product images are stored on Google Drive** and referenced by their **relative file paths** within the drive folder. The folder name for each product corresponds to its `product_id`, and images inside the folder are named with numbers (e.g., `1.jpg`, `2.jpg`). To keep the total dataset size manageable, **each product is limited to at most 3 images**.
+Contains structured product information for ~36,000 Lazada products. In this version, **product images are stored on Google Drive** and referenced by their **relative file paths** within the drive folder. 
+
+Link: https://drive.google.com/file/d/16kIB89v7DwxBESSIZS5WeV28AVjinRTi/view?usp=sharing
+
+The folder name for each product corresponds to its `product_id`, and images inside the folder are named with numbers (e.g., `1.jpg`, `2.jpg`). To keep the total dataset size manageable, **each product is limited to at most 3 images**.
 
 > 📦 The image files can be accessed via the Google Drive link provided separately.
 
